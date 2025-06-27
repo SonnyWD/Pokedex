@@ -46,8 +46,7 @@ Ce projet utilise les dépendances principales suivantes :
 
 L’application est disponible à l’adresse suivante :
 
-🔗 [https://mon-pokedex.vercel.app](https://mon-pokedex.vercel.app)  
-_(Remplacer par ton lien réel)_
+🔗 [https://pokedex-olmh.vercel.app/]
 
 ---
 
