@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import { fetchPokemons } from "./services/pokemonService";
 import PokemonCard from "./components/pokemonCard";
-import SearchBar from "./components/SearchBar";
-import SortByName from "./components/SortByName";
-import SortByTypes from "./components/SortByTypes";
+import SearchBar from "./components/searchBar";
+import SortByName from "./components/sortByName";
+import SortByTypes from "./components/sortByTypes";
 import PokemonModal from "./components/pokemonModal";
 import Btn from "./components/btn";
 
